@@ -7,6 +7,7 @@ Spec Driven Developmentを補助するツールをアーキテクチャと設計
 - https://github.com/Fission-AI/OpenSpec
 - https://github.com/classmethod/tsumiki
 - https://github.com/Pimzino/spec-workflow-mcp
+- https://github.com/bmad-code-org/BMAD-METHOD
 
 
 ## ルール
@@ -28,12 +29,10 @@ Spec Driven Developmentを補助するツールをアーキテクチャと設計
 
 1. **フェーズ1**: 各ツール個別分析（1ツールずつ実行）
   -  `analysis/{tool-name}.md` に出力
-    - kiro → `analysis/kiro.md`
-    - cc-sdd → `analysis/cc-sdd.md`
-    - spec-kit → `analysis/spec-kit.md`
-    - OpenSpec → `analysis/openspec.md`
-    - tsumiki → `analysis/tsumiki.md`
-    - spec-workflow-mcp → `analysis/spec-workflow-mcp.md`
+    - 例：
+      - kiro → `analysis/kiro.md`
+      - cc-sdd → `analysis/cc-sdd.md`
+      - spec-kit → `analysis/spec-kit.md`
 
 2. **フェーズ2**: 統合レポート作成
    - 全ツールの個別分析を統合
