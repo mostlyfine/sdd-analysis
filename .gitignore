@@ -1,2 +1,8 @@
+.mcp.json
+.mise.local.toml
+.mise.toml
+
+.serena/
+.claude/
 sdd_tools/
 analysis/
