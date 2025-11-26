@@ -1,8 +1,15 @@
+# Environment configuration files
 .mcp.json
 .mise.local.toml
 .mise.toml
+.env
 
+# AI model directories
 .serena/
 .claude/
+.gemini/
+
+# workspace directories
 sdd_tools/
 analysis/
+tmp/
